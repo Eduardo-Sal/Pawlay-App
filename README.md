@@ -2,7 +2,7 @@
 
 **AI-powered sports betting insights.**
 
-[www.pawlay.us](https://www.pawlay.us)
+[Visit the site → www.pawlay.us](https://www.pawlay.us)
 
 ![Pawlay Hero](./assets/pawlayheropage.png)
 
